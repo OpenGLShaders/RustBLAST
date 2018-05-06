@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Having a BLAST in Rust
 
-You can use the [editor on GitHub](https://github.com/OpenGLShaders/RustBLAST/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+The challenge of this project was to implement the BLAST algorithm. This project had 3 main goals:
+1. To learn about the Rust programming language and gain some experience actually using the language. I've dabbled with Rust in the past, but I wanted to build something more challenging than a simple Hello World program. 
+2. To learn about sequencing genomics data. I find Biological Sciences to be highly facinating, and I think computers are the tool that will facilitate the most breakthroughs in research in the future. 
+3. Lastly, I had some other APIs I needed to learn about (or continue learning about), and I thought this would be an interesting project to allow me to learn things like D3.js, and continue working with the Spark framework. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenGLShaders/RustBLAST/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## More to come
