@@ -9,7 +9,3 @@ var p = d3.select("body")
           .enter()
           .append("p")
           .text(function(d) { return "I'm #" + d + "!"});
-
-function do_update() {
-
-}
