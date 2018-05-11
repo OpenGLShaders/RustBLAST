@@ -1,4 +1,7 @@
 target/
 **/*.rs.bk
-
+*.DS_STORE
 */node_modules/*
+*__pycache__*
+*/djangoenv/*
+.idea
